@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "kind": "state",
+    "revision": 1793440329262900600,
+    "blocked": false,
+    "update": null,
+    "devices": {},
+    "registry_url": "https://olympiad-helper-registry.armagogw.workers.dev",
+    "channel_id": "OlympiadHelper-standard-048"
+  },
+  "signature": "0Hf3nuSNDDb6ishBut08Behxur3f05Q3PJTmhcmjYlTb4Vwz3qrlIFpWee3sAD4zEKQFfHbfdMgFq37tqKU3Bw=="
+}
