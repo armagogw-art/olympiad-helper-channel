@@ -1,12 +1,1 @@
-{
-  "payload": {
-    "kind": "state",
-    "revision": 1793440329262900600,
-    "blocked": false,
-    "update": null,
-    "devices": {},
-    "registry_url": "https://olympiad-helper-registry.armagogw.workers.dev",
-    "channel_id": "OlympiadHelper-standard-048"
-  },
-  "signature": "0Hf3nuSNDDb6ishBut08Behxur3f05Q3PJTmhcmjYlTb4Vwz3qrlIFpWee3sAD4zEKQFfHbfdMgFq37tqKU3Bw=="
-}
+{"payload":{"blocked":false,"channel_id":"OlympiadHelper-standard-048","devices":{},"kind":"state","registry_url":"https://olympiad-helper-registry.armagogw.workers.dev","revision":1793451486881444700,"update":{"sha256":"5d172a7685393a1ed74d9ffdb9922c18685b5684ffcfd7f9f95bc9ec5d059fc6","size":47943653,"url":"https://github.com/armagogw-art/olympiad-helper-channel/releases/download/standard-0.048-1793451479/OlympiadHelper.exe","version":"0.048"}},"signature":"17Ffk7wuj/G82StQD75rYIRC2R5CqD98BOjYaXfqY9RTbzsW9Ouu6lNO+4rMKam3jO+mJpHLliyD1cA1LfSBDg=="}
